@@ -1,0 +1,6 @@
+.land-bg {
+  background-image: url("images/land-van-ons-bg.jpg");
+  background-size: cover; /* <------ */
+  background-repeat: no-repeat;
+  background-position: center center;
+}
